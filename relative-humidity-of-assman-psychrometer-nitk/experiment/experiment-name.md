@@ -1,1 +1,1 @@
-## Relative humidity of Assman psychrometer
+## Relative humidity of Assman Psychrometer

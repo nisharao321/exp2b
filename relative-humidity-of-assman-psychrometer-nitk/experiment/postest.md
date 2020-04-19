@@ -22,13 +22,13 @@ Q 4. Dry bulb temperature is measure of <br>
 a. Evaporating capacity of air. <br>
 <b>b. Sensible heat content of air.</b> <br>
 c. Both a & b. <br>
-d.Latent heat content of air. <br>
+d. Latent heat content of air. <br>
 
 
 Q 5. Higher the relative humidity,  <br>
 a. Lower is the value of wet bulb temperature. <br>
 <b>b. Higher is the value of wet bulb temperature.</b> <br>
-c. Wet bulb temperature is greater than dry bulb temperature.<br> 
+c. Wet bulb temperature is greater than dry bulb temperature.<br>
 d. None of these<br>
 
 Q 6. Which of the following statement is incorrect?.  <br>
@@ -38,9 +38,9 @@ c. Flow of heat at muslin cloth take place through radiation and convection both
 <b>d. Flow of heat at muslin cloth take place through convection only.</b> <br>
 
 Q 7. Which of the following statement is correct?  <br>
-a. flow of heat from air to bulb with wet muslin cloth is slower than the rate of heat loss from the bulb with wet muslin due to evaporation.<br>
+a. Flow of heat from air to bulb with wet muslin cloth is slower than the rate of heat loss from the bulb with wet muslin due to evaporation.<br>
 b. At wet bulb temperature, flow of heat from air to bulb with wet muslin cloth is equal to the rate of heat loss from the bulb with wet muslin due to evaporation.<br>
-c. flow of heat from air to bulb with wet muslin cloth is higher than the rate of heat loss from the bulb with wet muslin due to evaporation.<br>
+c. Flow of heat from air to bulb with wet muslin cloth is higher than the rate of heat loss from the bulb with wet muslin due to evaporation.<br>
 <b>d. Both a & b.<br></b>
 
 Q 7. In Assman Psychrometer, metal designed are provided in order to  <br>
