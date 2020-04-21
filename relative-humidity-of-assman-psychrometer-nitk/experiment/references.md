@@ -3,6 +3,5 @@
 3. Le Roux, W. L. (1972); Mine Ventilation Notes for Beginners”; The Mine Ventilation Society of South Africa. 
 4.	McPherson, M. J. (1993); Subsurface Ventilation and Environmental Engineering”; Chapman & Hall, London. 
 5.	Misra  G.B.   (1986); “Mine Environment and Ventilation”; Oxford University Press, Calcutta, India. 
-6.	Page 10 of 10 
-7.	Vutukuri, V. S. & Lama, R. D. (1986); “Environmental Engineering in Mines”; Cambridge University Press, Cambridge.
+6.	Vutukuri, V. S. & Lama, R. D. (1986); “Environmental Engineering in Mines”; Cambridge University Press, Cambridge.
 
