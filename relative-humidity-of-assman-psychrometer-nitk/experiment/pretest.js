@@ -80,7 +80,7 @@
 
   const myQuestions = [
     {
-      question: "What is psychrometer used for?    ",
+      question: "What is psychrometer used for? ",
       answers: {
         a: "Relative humidity",
         b: "Humidity percentage",
@@ -114,7 +114,7 @@
         answers: {
           a: "Relative humidity is 100%",
           b: "It reached at Dew point ",
-          c: "Both a&b ",
+          c: "Both a & b ",
           d: "Humidity percentage is 100"
         },
         correctAnswer: "a"

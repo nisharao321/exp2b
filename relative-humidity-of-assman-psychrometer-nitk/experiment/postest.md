@@ -42,7 +42,7 @@ b. At wet bulb temperature, flow of heat from air to bulb with wet muslin cloth 
 c. Flow of heat from air to bulb with wet muslin cloth is higher than the rate of heat loss from the bulb with wet muslin due to evaporation<br>
 <b>d. Both a & b</b><br>
 
-Q 7. In Assman Psychrometer, metal designed are provided in order to  <br>
+Q 8. In Assman Psychrometer, metal designed are provided in order to  <br>
 a. Minimize radiative heating due to sun<br>
 b. Minimize radiative heating due to longwave radiation<br>
 c. Insure more safety to thermometer<br>

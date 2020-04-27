@@ -1,6 +1,6 @@
 1. Mine Environmental Engineering Lab Material NITK Surathkal.<br>
 
-2. Hartman, H. L., Mutmansky, J. M. & Wang, Y. J. (1982);<br> Mine Ventilation and Air Conditioning; John Wiley & Sons, New York. <br>
+2. Hartman, H. L., Mutmansky, J. M. & Wang, Y. J. (1982); Mine Ventilation and Air Conditioning; John Wiley & Sons, New York. <br>
 
 3. Le Roux, W. L. (1972); Mine Ventilation Notes for Beginners; The Mine Ventilation Society of South Africa.<br>
 

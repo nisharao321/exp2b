@@ -8,7 +8,7 @@ b. Humidity percentage<br>
 c. Absolute humidity<br>
 d. None of these<br><br>
 
-Q 2.Assman Psychrometer contains ______thermometer<br>
+Q 2.Assman Psychrometer contains ______ thermometer<br>
 a. One<br>
 <b>b. Two</b><br>
 c. Three<br>
