@@ -11,7 +11,7 @@
 <p style="text-indent:50px;text-align:justify;">Concept of Wet-Bulb Temperature :The water molecules in the wet muslin cloth take up energy from the neighboring molecules and evaporate into the air. The evaporating molecules leave the thermometer surface with reduced energy. This causes depression in the temperature near the thermometer bulb. Thus, lower temperature is recorded. Thus, a difference between the temperature at the bulb and the atmosphere exists. This causes flow of heat from the air through convection. Initially this flow of heat from air to bulb with wet muslin cloth is slower than the rate of heat loss from the bulb with wet muslin due to evaporation. But, a stage comes when the rate of heat loss and rate of heat gained in the two opposite processes equal. At this point, no further depression in temperature of wet-bulb is observed. At equilibrium, the temperature of thermometer with wet muslin cloth on its bulb is taken as wet-bulb temperature.
 </p>
 
-###Applications of psychrometer:
+Applications of psychrometer:
 
 1.	It give estimate of hygrometrical state of mine air especially inbye working of deeper mine having regard to its effects on comfort and working efficiency of men engaged.
 2.	 In mine liable to spontaneous combustion increase in temperature and humidity of air may occur in vicinity of heating during the production of heating due to oxidation of carbonaceous matter.
