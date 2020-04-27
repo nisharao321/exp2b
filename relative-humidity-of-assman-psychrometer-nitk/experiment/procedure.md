@@ -1,6 +1,6 @@
 ##### These procedure steps will be followed on the simulator
 
-1. When you click on a "Relative Humidity of “Assman Psychrometer” file, a new window will open as shown below. Click on the NEXT button at the bottom right corner to proceed to the next step.<br>
+1. When you click on a Relative Humidity of Assman Psychrometer file, a new window will open as shown below. Click on the NEXT button at the bottom right corner to proceed to the next step.<br>
 <img src="images/rh1.png"><br>
 
 2. Click on the Assman Psychrometer to rotate its mouth upward. <br>
