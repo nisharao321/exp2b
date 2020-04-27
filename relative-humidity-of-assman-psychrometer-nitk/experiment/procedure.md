@@ -6,7 +6,7 @@
 2. Click on the Assman Psychrometer to rotate its mouth upward. <br>
 <img src="images/rh2.png"><br>
 
-3. Click on the ‘Flask’ to wet the muslin cloth of wet bulb thermometer. <br>
+3. Click on the Flask to wet the muslin cloth of wet bulb thermometer. <br>
 <img src="images/rh3.png"><br>
 
 4. Click on the NEXT button at the bottom right corner to proceed to the next step.<br>

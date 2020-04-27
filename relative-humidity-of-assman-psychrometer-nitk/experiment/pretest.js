@@ -90,7 +90,7 @@
       correctAnswer: "a"
     },
     {
-      question: "Assman Psychrometer contains ______thermometer.",
+      question: "Assman Psychrometer contains ______thermometer",
       answers: {
         a: "One",
         b: "Two",
@@ -110,12 +110,12 @@
       correctAnswer: "a"
     },
     {
-        question: "If environment is saturated then we say. ",
+        question: "If environment is saturated then we say ",
         answers: {
-          a: "Relative humidity is 100%.",
+          a: "Relative humidity is 100%",
           b: "It reached at Dew point ",
           c: "Both a&b ",
-          d: "Humidity percentage is 100."
+          d: "Humidity percentage is 100"
         },
         correctAnswer: "a"
       },
@@ -124,8 +124,8 @@
     answers: {
           a: "Dry bulb",
           b: "Wet bulb",
-          c: "Both a& b",
-          d: "None of them contain muslin cloth. "
+          c: "Both a & b",
+          d: "None of them contain muslin cloth"
         },
         correctAnswer: "b"
       },
