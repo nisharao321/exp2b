@@ -19,7 +19,7 @@
 <img src="images/rh6.png"><br>
 
 7. The dry bulb and wet bulb temperatures are depicted here. Then, click on the bottom right corner button to get into next step.<br>
-<img src="images/rh7.png"><br>
+<img src="images/rh7.jpg"><br>
 
 8. The observation at place 1 is given below and put the required value in calculation to check your results. <br>
 <img src="images/rh8.png"><br>
