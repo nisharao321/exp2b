@@ -77,7 +77,7 @@ function button(para_button,para_wrong){
 
 
 
-var r= Math.floor(Math.random()*2);
+var r= Math.floor(Math.random()*3);
 
 var array=[[24,29.5],
 [24.5,28.5],
@@ -329,7 +329,7 @@ function magic()
             alert("Enter the value to proceed");
         }
         else {
-          if(document.getElementById('output-3').alue==ans_4)
+          if(document.getElementById('output-3').value==ans_4)
             right_condition('button-3','wrong-3','right-3','button-4');
           else{
             flag3+=1;
@@ -476,7 +476,7 @@ function magic()
           document.getElementById('m1').style.visibility="hidden";
           document.getElementById('m2').style.visibility="hidden";
 
-        refreshh('wrong','wrong-1','wrong-2','wrong-3','wrong-4','wrong-5','wrong-6','wrong-7','right','right-1','right-2','right-3','right-4','right-5','right-6','right-7');
+        refresh('wrong','wrong-1','wrong-2','wrong-3','wrong-4','wrong-5','wrong-6','wrong-7','right','right-1','right-2','right-3','right-4','right-5','right-6','right-7');
         document.getElementById('c1').style.visibility="hidden";
         document.getElementById('cc').style.visibility="visible";
         document.getElementById('10-1').style.visibility="visible";
@@ -525,7 +525,6 @@ function magic()
       document.getElementById('m1-1').style.visibility="visible";
       document.getElementById('m2-1').style.visibility="visible";
       document.getElementById('111-10').style.visibility="visible";
-
       document.getElementById('11-01q').style.visibility="visible";
       document.getElementById('11-02q').style.visibility="visible";
       document.getElementById('11-022q').style.visibility="visible";
@@ -536,7 +535,7 @@ function magic()
         setTimeout(function()
         {
         document.getElementById('sco2').style.visibility="hidden";
-        document.getElementById('11-022q').style.animation = "water-6 5s 1 forwards";
+        document.getElementById('11-022q').style.animation = "water-6 5s forwards";
         setTimeout(function()
         {
           for(i=0;i<=arr[r].length-1;i++)
@@ -668,7 +667,7 @@ function magic()
             alert("Enter the value to proceed");
         }
         else {
-          if(document.getElementById('output1-3').alue==ans_44)
+          if(document.getElementById('output1-3').value==ans_44)
             right_condition('button1-3','wrong1-3','right1-3','button1-4');
           else{
             flag3_3+=1;
@@ -804,7 +803,7 @@ function magic()
 
     else if (simsubscreennum==9)
     {
-        refreshh('wrong1','wrong1-1','wrong1-2','wrong1-3','wrong1-4','wrong1-5','wrong1-6','wrong1-7','right1','right1-1','right1-2','right1-3','right1-4','right1-5','right1-6','right1-7');
+        refresh('wrong1','wrong1-1','wrong1-2','wrong1-3','wrong1-4','wrong1-5','wrong1-6','wrong1-7','right1','right1-1','right1-2','right1-3','right1-4','right1-5','right1-6','right1-7');
         document.getElementById('c12').style.visibility="hidden";
         document.getElementById('ccc').style.visibility="visible";
         document.getElementById('10-1p').style.visibility="visible";
@@ -987,7 +986,7 @@ function magic()
             alert("Enter the value to proceed");
         }
         else {
-          if(document.getElementById('output11-3').alue==ans_51)
+          if(document.getElementById('output11-3').value==ans_51)
             right_condition('button11-3','wrong11-3','right11-3','button11-4');
           else{
             flag3_51+=1;
@@ -1126,7 +1125,7 @@ function magic()
     else if (simsubscreennum==13)
     {
     //  refresh_11();
-    refreshh('wrong11','wrong11-1','wrong11-2','wrong11-3','wrong11-4','wrong11-5','wrong11-6','wrong11-7','right11','right11-1','right11-2','right11-3','right11-4','right11-5','right11-6','right11-7');
+    refresh('wrong11','wrong11-1','wrong11-2','wrong11-3','wrong11-4','wrong11-5','wrong11-6','wrong11-7','right11','right11-1','right11-2','right11-3','right11-4','right11-5','right11-6','right11-7');
       document.getElementById('cc1').style.visibility="hidden";
 
       document.getElementById('ob1').style.visibility="hidden";
@@ -1243,7 +1242,7 @@ function magic()
       document.getElementById('22-1').style.visibility="hidden";
       setTimeout(function()
       {
-        document.getElementById("11-4").style.animation = "rotate 7s forwards";
+        document.getElementById("11-4").style.animation = "rotate 7s linear forwards";
         setTimeout(function()
         {
           document.getElementById('can12').innerHTML="Time=120 s";
@@ -1349,7 +1348,7 @@ function magic()
       document.getElementById('22-1q').style.visibility="hidden";
       setTimeout(function()
       {
-        document.getElementById("11-4q").style.animation = "rotate 7s forwards";
+        document.getElementById("11-4q").style.animation = "rotate 7s linear forwards";
         setTimeout(function()
         {
           document.getElementById('can12q').innerHTML="Time=120 s";
@@ -1434,7 +1433,7 @@ function magic()
       document.getElementById('22-1s').style.visibility="hidden";
       setTimeout(function()
       {
-        document.getElementById("11-4s").style.animation = "rotate 7s forwards";
+        document.getElementById("11-4s").style.animation = "rotate 7s linear forwards";
         setTimeout(function()
         {
           document.getElementById('can12s').innerHTML="Time=120 s";
@@ -1454,7 +1453,7 @@ function magic()
     document.getElementById("22-1s").style.animation = "moveh 1s forwards";
   }
 
-  function refreshh(w1,w2,w3,w4,
+  function refresh(w1,w2,w3,w4,
   w5,w6,w7,w8,r1,r2,r3,r4,r5,r6,r7,r8)
   {
     document.getElementById(w1).style.visibility="hidden";
