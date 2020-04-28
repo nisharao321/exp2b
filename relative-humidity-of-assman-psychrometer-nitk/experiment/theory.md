@@ -13,7 +13,7 @@
 
 Applications of psychrometer:
 
-1. It gives estimate of hygrometrical state of mine air especially inbye working of deeper mine having regard to its effects on comfort and working efficiency of men engaged.
+1. It give estimate of hygrometrical state of mine air especially inbye working of deeper mine having regard to its effects on comfort and working efficiency of men engaged.
 2. In mine liable to spontaneous combustion increase in temperature and humidity of air may occur in vicinity of heating during the production of heating due to oxidation of carbonaceous matter.
 3. A psychrometer may be used in conjunction without requirement to determine whether heating is taking place or not.
 4. Psychrometrical surveys are under taken before deciding about air conditioning or artificial cooling in very hot and deep mine. 

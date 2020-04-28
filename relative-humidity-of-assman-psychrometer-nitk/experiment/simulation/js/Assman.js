@@ -329,7 +329,7 @@ function magic()
             alert("Enter the value to proceed");
         }
         else {
-          if(document.getElementById('output-3').alue==ans_4)
+          if(document.getElementById('output-3').value==ans_4)
             right_condition('button-3','wrong-3','right-3','button-4');
           else{
             flag3+=1;
@@ -667,7 +667,7 @@ function magic()
             alert("Enter the value to proceed");
         }
         else {
-          if(document.getElementById('output1-3').alue==ans_44)
+          if(document.getElementById('output1-3').value==ans_44)
             right_condition('button1-3','wrong1-3','right1-3','button1-4');
           else{
             flag3_3+=1;
@@ -986,7 +986,7 @@ function magic()
             alert("Enter the value to proceed");
         }
         else {
-          if(document.getElementById('output11-3').alue==ans_51)
+          if(document.getElementById('output11-3').value==ans_51)
             right_condition('button11-3','wrong11-3','right11-3','button11-4');
           else{
             flag3_51+=1;
