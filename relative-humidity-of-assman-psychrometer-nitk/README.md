@@ -5,10 +5,10 @@
 <b>Discipline | <b>Engineering
 :--|:--|
 <b> Lab | <b>  Mining Environmental Engineering Lab
-<b> Experiment|     <b> 2b. Relative Humidity of Assman Psychrometer.
+<b> Experiment|     <b> 2b. Relative Humidity of Assman Psychrometer
 
 <h5> About the Experiment : </h5>
-Determination of the relative humidity of a given location using assman psychrometer and compare the result obtained using psychrometric chart.  
+Determination of the relative humidity of a given location using assman psychrometer and compare the result obtained using psychrometric chart  
 
 <b>Name of Developer | <b> Dr. Pruthviraj U
 :--|:--|
